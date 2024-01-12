@@ -1,16 +1,4 @@
-<p align="center">
-  <p align="center">
-   
-  </p>
-  <p align="center">
-    The Definitive Django Learning Platform.
-  </p>
-</p>
 
-### *** Deprecation warning ***
-
-
----
 
 # Django E-commerce
 
